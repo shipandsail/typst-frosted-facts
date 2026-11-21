@@ -1,9 +1,9 @@
-# nutrition-label
+# frosted-facts
 
 US-style **Nutrition Facts** panels, **per-100 g nutrition tables** (EU style) and **Mifflin-St Jeor** energy helpers for Typst.
 
 ```typ
-#import "@preview/nutrition-label:0.1.0": *
+#import "@preview/frosted-facts:0.1.0": *
 
 #nutrition-label(
   servings: 1, serving-size: "1 medium (118 g)", calories: 105,
